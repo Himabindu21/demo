@@ -1,0 +1,10 @@
+Generated at 2018-05-07 14:47:21 +0530
+Errno::EISDIR: Is a directory @ io_fread - /home/likewise-open/IDEXCEL/bpavan/Downloads/staging-chef-server-zbiykm4xry2r2o1i/cookbooks/sample
+/opt/chefdk/embedded/lib/ruby/gems/2.4.0/gems/chef-13.8.5/lib/chef/application/apply.rb:147:in `read'
+/opt/chefdk/embedded/lib/ruby/gems/2.4.0/gems/chef-13.8.5/lib/chef/application/apply.rb:147:in `read_recipe_file'
+/opt/chefdk/embedded/lib/ruby/gems/2.4.0/gems/chef-13.8.5/lib/chef/application/apply.rb:189:in `run_chef_recipe'
+/opt/chefdk/embedded/lib/ruby/gems/2.4.0/gems/chef-13.8.5/lib/chef/application/apply.rb:204:in `run_application'
+/opt/chefdk/embedded/lib/ruby/gems/2.4.0/gems/chef-13.8.5/lib/chef/application/apply.rb:216:in `run'
+/opt/chefdk/embedded/lib/ruby/gems/2.4.0/gems/chef-13.8.5/bin/chef-apply:25:in `<top (required)>'
+/usr/bin/chef-apply:250:in `load'
+/usr/bin/chef-apply:250:in `<main>'
